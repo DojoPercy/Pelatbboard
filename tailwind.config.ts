@@ -19,6 +19,7 @@ const config = {
     },
     extend: {
       colors: {
+        customGreen: '#027C66',
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
